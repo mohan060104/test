@@ -1,5 +1,0 @@
-{{#mohan}}
-Name: Mohan Majhi
-Skills: HTML, CSS, JS, Bootstrap
-Email: mohan060104@gmail.com
-{{/mohan}}
